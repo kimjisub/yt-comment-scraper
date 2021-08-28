@@ -1,1 +1,1 @@
-module.exports = require("./src/Youtube-Scraper")
+ytcm = module.exports = require("./src/Youtube-Scraper")
